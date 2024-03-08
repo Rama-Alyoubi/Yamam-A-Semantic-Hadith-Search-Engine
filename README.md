@@ -1,4 +1,7 @@
-# Yamam: A Semantic Hadith Search Engine
+<h1>
+  <img src="" alt="Yamam Logo" width="50" height="50" />
+  Yamam: Your Smart Hadith Companion
+</h1>
 
 ## Project Overview
 Yamam is an innovative search engine designed to revolutionize the way users interact with Hadith literature. Utilizing the latest advancements in natural language processing and semantic search technology, Yamam provides an intuitive and powerful platform to explore and discover Hadiths with unparalleled ease and accuracy.
@@ -12,7 +15,7 @@ The project employs a cutting-edge Large Language Model (LLM), specifically Ara 
 
 ## Yamam: Your Smart Hadith Companion
 
-![Yamam Interface](image-link)
+![Yamam Interface](https://github.com/Rama-Alyoubi/Yamam-A-Semantic-Hadith-Search-Engine/assets/128150728/631bc9d2-5aea-463f-b43a-9e3381d8693c)
 
 ## Acknowledgment
 This project was developed as part of The Quran and its Sciences Challenge, hosted by the University of Jeddah. Our success in this initiative reflects the collaborative effort and support from our mentors and the organizers.
