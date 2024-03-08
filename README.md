@@ -1,5 +1,5 @@
 <h1>
-  <img src="" alt="Yamam Logo" width="50" height="50" />
+  <img src="https://github.com/Rama-Alyoubi/Yamam-A-Semantic-Hadith-Search-Engine/assets/128150728/bacf9c24-432c-4c11-b8b3-fa3ccff11885" alt="Yamam Logo" width="40" height="40" />
   Yamam: Your Smart Hadith Companion
 </h1>
 
